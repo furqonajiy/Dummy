@@ -1,2 +1,1 @@
-x = 4;
-print("Hello",x)
+print("Hello World")
